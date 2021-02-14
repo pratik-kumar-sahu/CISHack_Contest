@@ -1,6 +1,6 @@
-# CIS-AttainU
+# CISHack-GitHub
 Code Innovation Series powered by GitHub
-Project Submission for CIS - AttainU.
+Project Submission for CIS - Arya College Of Engineering & IT.
 
 ## Submission Procedure
 Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
