@@ -1,8 +1,8 @@
-[Live Portfolio Page](https://pratik-sahu-au13.github.io/CISHack-AttainU/)
+[Live Portfolio Page](https://pratik-sahu-au13.github.io/CISHack/)
 
 # CISHack-GitHub
 Code Innovation Series powered by GitHub
-Project Submission for CIS - ATTAINU.
+Project Submission for Code Innovation Series by IncubateInd.
 
 ## Submission Procedure
 Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
