@@ -1,7 +1,5 @@
-[Live Portfolio Page](https://pratik-sahu-au13.github.io/CISHack/)
-
 # CISHack-GitHub
-Code Innovation Series powered by GitHub
+Code Innovation Series powered by IncubateInd & GitHub.
 Project Submission for Code Innovation Series by IncubateInd.
 
 ## Submission Procedure
